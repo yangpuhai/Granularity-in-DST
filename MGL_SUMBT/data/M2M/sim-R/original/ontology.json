@@ -1,0 +1,96 @@
+{
+  "category": [
+    "thai",
+    "italian",
+    "french",
+    "vietnamese",
+    "indian",
+    "greek",
+    "taiwanese",
+    "mediterranean",
+    "chinese"
+  ],
+  "date": [
+    "friday",
+    "next monday",
+    "wednesday",
+    "tonight",
+    "tomorrow"
+  ],
+  "location": [
+    "morristown",
+    "redmond",
+    "madison",
+    "kirkland",
+    "yorktown heights",
+    "orlando",
+    "mountain view",
+    "los altos",
+    "middletown"
+  ],
+  "meal": [
+    "breakfast",
+    "dinner",
+    "brunch",
+    "lunch"
+  ],
+  "num_people": [
+    "6",
+    "5",
+    "3",
+    "2",
+    "4"
+  ],
+  "price_range": [
+    "moderately priced",
+    "inexpensive",
+    "expensive"
+  ],
+  "rating": [
+    "michelin rated",
+    "good",
+    "zagat rated"
+  ],
+  "restaurant_name": [
+    "sushi boat",
+    "il fornaio",
+    "sakoon",
+    "sumiko",
+    "cascal",
+    "amarin",
+    "cheese cake factory",
+    "los altos grill",
+    "pompei",
+    "cetrella",
+    "oren hummus",
+    "ephesus",
+    "amber india",
+    "evvia",
+    ".ink",
+    "high rooftop lounge",
+    "angel",
+    "pepper",
+    "sweet greens",
+    "the hudson room",
+    "the ivy",
+    "the nest",
+    "the view",
+    "acorn",
+    "amber",
+    "boats",
+    "deep blue",
+    "oren"
+  ],
+  "time": [
+    "7 pm",
+    "6 pm",
+    "8 pm",
+    "6.30 pm",
+    "7.15 pm",
+    "6.15 pm",
+    "5.30 pm",
+    "7.30 pm",
+    "8.30 pm",
+    "5 pm"
+  ]
+}

@@ -1,0 +1,627 @@
+movies_00000001	0	hi , buy 3 movie tickets for tomorrow .		tomorrow	none	3	none	none
+movies_00000001	1	i would like to see ae dil hai mushkil at the cinelux plaza theatre .	what movie do you want to see and what theater do you want to go to ?	tomorrow	ae dil hai mushkil	3	cinelux plaza theatre	none
+movies_00000001	2	8:00 pm .	at what time ?	tomorrow	ae dil hai mushkil	3	cinelux plaza theatre	8:00 pm
+movies_00000001	3	yes .	did you say 8:00 pm .	tomorrow	ae dil hai mushkil	3	cinelux plaza theatre	8:00 pm
+movies_00000001	4	bye .	your purchase of 3 tickets for the 8:00 pm showing of ae dil hai mushkil on march 08 th at the cinelux plaza theatre is confirmed .	tomorrow	ae dil hai mushkil	3	cinelux plaza theatre	8:00 pm
+movies_00000014	0	i need to buy movie tickets for saturday		saturday	none	none	none	none
+movies_00000014	1	ae dil hai mushkil at century 20 great mall	okay , what do you want to see and where ?	saturday	ae dil hai mushkil	none	century 20 great mall	none
+movies_00000014	2	6:00 pm for 6 people	okay , for what time and how many tickets do you want ?	saturday	ae dil hai mushkil	6	century 20 great mall	6:00 pm
+movies_00000014	3	yes , 6:00 pm	okay , i heard 6:00 pm , is that correct ?	saturday	ae dil hai mushkil	6	century 20 great mall	6:00 pm
+movies_00000014	4	thanks .	you have 6 tickets for the movie ae dil hai mushkil at century 20 great mall on march 11 at 6:00 pm	saturday	ae dil hai mushkil	6	century 20 great mall	6:00 pm
+movies_00000017	0	i would like to buy movie tickets for 4:00 pm		none	none	none	none	4:00 pm
+movies_00000017	1	ae dil hai mushkil at amc mercado 20	which movie and at what theater ?	none	ae dil hai mushkil	none	amc mercado 20	4:00 pm
+movies_00000017	2	tuesday with 6 tickets	what date and how many tickets ?	tuesday	ae dil hai mushkil	6	amc mercado 20	4:00 pm
+movies_00000017	3	yes , 4:00 pm	do you want tickets for 4:00 pm	tuesday	ae dil hai mushkil	6	amc mercado 20	4:00 pm
+movies_00000017	4	thank you	your purchase is confirmed for 6 tickets for the 4:00 pm showing of ae dil hai mushkil at amc mercado 20 on march 07 .	tuesday	ae dil hai mushkil	6	amc mercado 20	4:00 pm
+movies_00000023	0	buy movie tickets for " almost christmas . "		none	almost christmas	none	none	none
+movies_00000023	1	the theater ' s name is aquarius , and i don ' t care about the time .	when do you want to see the movie ?	none	almost christmas	none	aquarius	dontcare
+movies_00000023	2	yes , i don ' t care .	so , the time of the movie doesn ' t matter ?	none	almost christmas	none	aquarius	dontcare
+movies_00000023	3	i want 1 ticket , for next monday .	how many tickets would you like ?	next monday	almost christmas	1	aquarius	dontcare
+movies_00000023	4	sounds good .	i found one showing for next monday at 5 pm .	next monday	almost christmas	1	aquarius	5 pm
+movies_00000023	5	thanks , bye !	i ' ve successfully purchased 1 ticket for next monday to see " almost christmas " at aquarius .	next monday	almost christmas	1	aquarius	5 pm
+movies_00000036	0	purchase movie tickets		none	none	none	none	none
+movies_00000036	1	2 tickets please	how many tickets	none	none	2	none	none
+movies_00000036	2	yes	do you want to buy 2 tickets ?	none	none	2	none	none
+movies_00000036	3	aquarius	which movie theater	none	none	2	aquarius	none
+movies_00000036	4	i would like to see almost christmas	which movie would you like to see	none	almost christmas	2	aquarius	none
+movies_00000036	5	yes that ' s the correct movie	verify the movie is almost christmas	none	almost christmas	2	aquarius	none
+movies_00000036	6	saturday at 2 pm	what time are you going , and on what date ?	saturday	almost christmas	2	aquarius	2 pm
+movies_00000039	0	i ' d like to by movie tickets .		none	none	none	none	none
+movies_00000039	1	2 pm	what showtime are you seeking ?	none	none	none	none	2 pm
+movies_00000039	2	2 tickets for the wednesday showing almost christmas at angelika theater .	which theater will you be attending and how many tickets would you like ?	wednesday	almost christmas	2	angelika	2 pm
+movies_00000039	3	8.30 pm , then .	there are no 2 pm tickets available , but there are tickets for 8 pm and 8.30 pm	wednesday	almost christmas	2	angelika	8.30 pm
+movies_00000039	4	thank you .	you have purchased 2 tickets for wednesday ' s 8.30 pm showing of almost christmas at the angelika .	wednesday	almost christmas	2	angelika	8.30 pm
+movies_00000050	0	buy movie tickets for almost christmas at amc mercado		none	almost christmas	none	amc mercado	none
+movies_00000050	1	2 tickets for tonight	what day and time	tonight	almost christmas	2	amc mercado	none
+movies_00000050	2	any time	what time	tonight	almost christmas	2	amc mercado	dontcare
+movies_00000050	3	neither , never mind . bye !	7.15 pm or 7.30 pm ?	tonight	almost christmas	2	amc mercado	dontcare
+movies_00000053	0	buy ticks for almost christmas		none	almost christmas	none	none	none
+movies_00000053	1	amc mercado	what theater do you want to go to ?	none	almost christmas	none	amc mercado	none
+movies_00000053	2	doesn ' t matter	what time would you like to attend ?	none	almost christmas	none	amc mercado	dontcare
+movies_00000053	3	i need 2 tickets for sunday	what day and how many tickets will you need ?	sunday	almost christmas	2	amc mercado	dontcare
+movies_00000053	4	okay	looking for 2 tickets on sunday .	sunday	almost christmas	2	amc mercado	dontcare
+movies_00000053	5	5 pm works for me	which time is best for you . 5 pm , 7 pm or 7.30 pm	sunday	almost christmas	2	amc mercado	5 pm
+movies_00000053	6	bye !	i purchased 2 tickets for almost christmas at the amc mercado for sunday at 5 pm	sunday	almost christmas	2	amc mercado	5 pm
+movies_00000056	0	i need to buy some tickets for almost christmas at the aquarius theater		none	almost christmas	none	aquarius	none
+movies_00000056	1	yes	you would like ticket for almost christmas at the aquarius theater	none	almost christmas	none	aquarius	none
+movies_00000056	2	i need 2 tickets for tonight at 7.15 pm	how many tickets ? also , do you have a preference for a date and time	tonight	almost christmas	2	aquarius	7.15 pm
+movies_00000056	3	yes	so you want 2 tickets for almost christmas at the aquarius	tonight	almost christmas	2	aquarius	7.15 pm
+movies_00000056	4	thanks	i have purchased your tickets	tonight	almost christmas	2	aquarius	7.15 pm
+movies_00000065	0	can you buy tickets for almost christmas at angelika		none	almost christmas	none	angelika	none
+movies_00000065	1	3 tickets .	sure . how many ?	none	almost christmas	3	angelika	none
+movies_00000065	2	great .	ok i ' ll get 3 tickets .	none	almost christmas	3	angelika	none
+movies_00000065	3	friday at 8 pm would be great .	what time ?	friday	almost christmas	3	angelika	8 pm
+movies_00000065	4	how about 6 pm ?	i wasn ' t able to get tickets at that time .	friday	almost christmas	3	angelika	6 pm
+movies_00000065	5	ok . thanks for checking . bye !	those aren ' t available either .	friday	almost christmas	3	angelika	6 pm
+movies_00000096	0	can you help me buy movie tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000098	0	can you buy movie tickets for me		none	none	none	none	none
+movies_00000098	1	the stanford theater	which theater	none	none	none	the stanford theater	none
+movies_00000098	2	1	how many tickets	none	none	1	the stanford theater	none
+movies_00000098	3	yes , just 1 please	just 1	none	none	1	the stanford theater	none
+movies_00000098	4	8 pm	what time	none	none	1	the stanford theater	8 pm
+movies_00000098	5	i want to see almost christmas on wednesday	which movie and for what date	wednesday	almost christmas	1	the stanford theater	8 pm
+movies_00000098	6	yes	okay , 1 tickets for almost christmas at 8 pm on wednesday at the stanford theater . is that correct ?	wednesday	almost christmas	1	the stanford theater	8 pm
+movies_00000098	7	thanks . see ya !	i ' m sorry , i can ' t complete this request .	wednesday	almost christmas	1	the stanford theater	8 pm
+movies_00000100	0	i ' d like to buy movie tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000100	1	shoreline theater	what theater would you prefer ?	none	almost christmas	none	shoreline theater	none
+movies_00000100	2	2 tickets for saturday , please	how many tickets ?	saturday	almost christmas	2	shoreline theater	none
+movies_00000100	3	yes , that ' s right .	2 tickets for saturday , is that right ?	saturday	almost christmas	2	shoreline theater	none
+movies_00000100	4	1 pm	what time would you prefer ?	saturday	almost christmas	2	shoreline theater	1 pm
+movies_00000100	5	yes that ' s correct .	do you prefer 1 pm ?	saturday	almost christmas	2	shoreline theater	1 pm
+movies_00000100	6	that won ' t work . how about today .	1 pm isn ' t available . how about 6 pm or 6.30 pm ?	today	almost christmas	2	shoreline theater	1 pm
+movies_00000100	7	yes	you want tickets for today ?	today	almost christmas	2	shoreline theater	1 pm
+movies_00000100	8	no , not 8 pm .	1 pm is not available for today , how about 8 pm ?	today	almost christmas	2	shoreline theater	1 pm
+movies_00000100	9	okay , bye .	i ' m sorry , i can ' t complete the purchase for 2 tickets to almost christmas today at shoreline theater .	today	almost christmas	2	shoreline theater	1 pm
+movies_00000105	0	i want to buy movie tickets to almost christmas .		none	almost christmas	none	none	none
+movies_00000105	1	2 tickets at 2 pm next monday at angelika theater .	okay , what theater , time , and amount of tickets ?	next monday	almost christmas	2	angelika	2 pm
+movies_00000105	2	yes .	did you say you want that for next monday ?	next monday	almost christmas	2	angelika	2 pm
+movies_00000105	3	yes , 6 pm .	2 pm isn ' t available . would you prefer 6 pm , 6.15 pm or 6.30 pm ?	next monday	almost christmas	2	angelika	6 pm
+movies_00000105	4	thanks you . bye .	ticket purchase is confirmed for 2 tickets to almost christmas next monday at 6 pm at angelika .	next monday	almost christmas	2	angelika	6 pm
+movies_00000108	0	buy movie tickets for almost christmas on wednesday at the lincoln square cinemas		wednesday	almost christmas	none	lincoln square cinemas	none
+movies_00000108	1	the theater is lincoln square cinemas	is the theater name lincoln square cinemas	wednesday	almost christmas	none	lincoln square cinemas	none
+movies_00000108	2	2 tickets	how many tickets	wednesday	almost christmas	2	lincoln square cinemas	none
+movies_00000108	3	yes , 2 tickets	do you need 2 tickets	wednesday	almost christmas	2	lincoln square cinemas	none
+movies_00000108	4	12 pm	what time	wednesday	almost christmas	2	lincoln square cinemas	12 pm
+movies_00000108	5	8.30 pm	12 pm is not available . choices are 7 pm , 7.30 pm , or 8.30 pm	wednesday	almost christmas	2	lincoln square cinemas	8.30 pm
+movies_00000108	6	the date is tomorrow	unable to complete the purchase for wednesday	tomorrow	almost christmas	2	lincoln square cinemas	8.30 pm
+movies_00000108	7	thank you . bye !	the purchase has been confirmed for tomorrow at 8.30 pm for almost christmas at the lincoln square cinemas	tomorrow	almost christmas	2	lincoln square cinemas	8.30 pm
+movies_00000120	0	can you help me buy movie tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000140	0	can you buy me movie tickets ?		none	none	none	none	none
+movies_00000140	1	the movie is almost christmas for sunday at the shoreline theater at any time	what time would you like ?	sunday	almost christmas	none	shoreline theater	dontcare
+movies_00000140	2	ticket for 1	how many tickets would you like ?	sunday	almost christmas	1	shoreline theater	dontcare
+movies_00000140	3	let ' s do the 7.15 pm one	would you prefer 6 pm or 7.15 pm ?	sunday	almost christmas	1	shoreline theater	7.15 pm
+movies_00000140	4	thank you	ok . i bought 1 ticket for sunday for almost christmas at 7.15 pm at shoreline theater	sunday	almost christmas	1	shoreline theater	7.15 pm
+movies_00000144	0	i ' d like to buy tickets for almost christmas .		none	almost christmas	none	none	none
+movies_00000144	1	aquarius at 1 pm .	sure , what ' s the name of the theatre and the time ?	none	almost christmas	none	aquarius	1 pm
+movies_00000144	2	yes . aquarius at 1 pm .	confirm you ' re interested in aquarius at 1 pm	none	almost christmas	none	aquarius	1 pm
+movies_00000144	3	3 tickets for saturday	how many tickets and what ' s the date ?	saturday	almost christmas	3	aquarius	1 pm
+movies_00000144	4	no bye .	none available for 1 pm you can choose 6 pm , 6.30 pm or 7.15 pm .	saturday	almost christmas	3	aquarius	1 pm
+movies_00000146	0	purchase movie tickets		none	none	none	none	none
+movies_00000146	1	2 tickets please	how many tickets	none	none	2	none	none
+movies_00000146	2	yes	please confirm 2 tickets	none	none	2	none	none
+movies_00000146	3	aquarius	which movie theater	none	none	2	aquarius	none
+movies_00000146	4	i would like to see almost christmas	which movie would you like to see	none	almost christmas	2	aquarius	none
+movies_00000146	5	yes that ' s the correct movie	do you want tickets for the movie almost christmas ?	none	almost christmas	2	aquarius	none
+movies_00000146	6	saturday at 2 pm	what time are you going , and on what date ?	saturday	almost christmas	2	aquarius	2 pm
+movies_00000148	0	hello . please purchase movie tickets for almost christmas playing at cinemark 12 downtown san mateo .		none	almost christmas	none	cinemark 12 downtown san mateo	none
+movies_00000148	1	3 tickets for the 10:00 pm show please .	what time and how many tickets would you like ?	none	almost christmas	3	cinemark 12 downtown san mateo	10:00 pm
+movies_00000148	2	tomorrow .	what date ?	tomorrow	almost christmas	3	cinemark 12 downtown san mateo	10:00 pm
+movies_00000148	3	yes , the 10:00 pm show .	please confirm that you want to see the 10:00 pm show .	tomorrow	almost christmas	3	cinemark 12 downtown san mateo	10:00 pm
+movies_00000148	4	thanks .	i have purchased 3 tickets for the 10:00 pm showing of almost christmas for tomorrow , march march 08 , at the cinemark 12 downtown san mateo .	tomorrow	almost christmas	3	cinemark 12 downtown san mateo	10:00 pm
+movies_00000155	0	i ' d like to buy some movie tickets .		none	none	none	none	none
+movies_00000155	1	almost christmas , i need 3 tickets at the amc mercado ?	okay , what movie and how many ?	none	almost christmas	3	amc mercado	none
+movies_00000155	2	tomorrow at 12 pm .	what time are you going , and on what date ?	tomorrow	almost christmas	3	amc mercado	12 pm
+movies_00000155	3	nevermind . thanks for the help , have a nice day . bye !	that time is not available there at tickets for 7.15 pm , 8 pm , and 8.30 pm	tomorrow	almost christmas	3	amc mercado	12 pm
+movies_00000165	0	buy movie tickets for almost christmas saturday at the stanford theater for 1 pm		saturday	almost christmas	none	the stanford theater	1 pm
+movies_00000165	1	3	how many tickets ?	saturday	almost christmas	3	the stanford theater	1 pm
+movies_00000165	2	no , thanks for the help . bye !	1 pm is sold out , does 5 pm or 6 pm ok	saturday	almost christmas	3	the stanford theater	1 pm
+movies_00000182	0	i ' d like to buy movie tickets .		none	none	none	none	none
+movies_00000182	1	i don ' t understand .	what time and on what date would you like to go to the movies ?	none	none	none	none	none
+movies_00000182	2	sunday at 1 pm	please give me a date and time for your tickets .	sunday	none	none	none	1 pm
+movies_00000182	3	i don ' t understand .	what would you like to see ?	sunday	none	none	none	1 pm
+movies_00000182	4	almost christmas	which movie do you want to buy tickets for ?	sunday	almost christmas	none	none	1 pm
+movies_00000182	5	just 1 .	how many tickets do you need ?	sunday	almost christmas	1	none	1 pm
+movies_00000182	6	yes . aquarius theater .	any particular theater ?	sunday	almost christmas	1	aquarius	1 pm
+movies_00000182	7	that won ' t work . what about 2 pm ?	there are no tickets available at 1 pm , but there are some for 5 pm or 7.15 pm .	sunday	almost christmas	1	aquarius	2 pm
+movies_00000182	8	no . how about 12 pm ?	there are no tickets for 2 pm either . would you like 5 pm or 7.15 pm ?	sunday	almost christmas	1	aquarius	12 pm
+movies_00000182	9	ok , 8.30 pm .	there are no tickets available for 12 pm . you could choose 7.15 pm , 7.30 pm , or 8.30 pm .	sunday	almost christmas	1	aquarius	8.30 pm
+movies_00000182	10	thanks . bye .	alright . you have 1 ticket to see almost christmas at the aquarius theater on sunday at 8.30 pm .	sunday	almost christmas	1	aquarius	8.30 pm
+movies_00000186	0	buy me movie tickets for the movie almost christmas		none	almost christmas	none	none	none
+movies_00000186	1	i want to see it at lincoln square cinemas today	what theater do you want to see it at	today	almost christmas	none	lincoln square cinemas	none
+movies_00000186	2	1 ticket for 1 pm	how many tickets would you like	today	almost christmas	1	lincoln square cinemas	1 pm
+movies_00000186	3	that won ' t work . goodbye	there are no 1 pm tickets . they do have 6.30 pm and 7 pm .	today	almost christmas	1	lincoln square cinemas	1 pm
+movies_00000187	0	i want to purchase movie tickets for almost christmas from the aquarius theatre .		none	almost christmas	none	aquarius	none
+movies_00000187	1	can i have 2 tickets ?	how many tickets would you like to purchase ?	none	almost christmas	2	aquarius	none
+movies_00000187	2	next monday at 7.15 pm	sure , what day and time would you like to see the movie ?	next monday	almost christmas	2	aquarius	7.15 pm
+movies_00000187	3	no those aren ' t good times for me , but thank you .	7.15 pm is not an option , you can choose from the following times 7 pm , 7.30 pm and 8 pm .	next monday	almost christmas	2	aquarius	7.15 pm
+movies_00000189	0	buy movie tickets for almost christmas in angelika		none	almost christmas	none	angelika	none
+movies_00000189	1	i ' m going wednesday and 2 tickets , please .	how many tickets ?	wednesday	almost christmas	2	angelika	none
+movies_00000189	2	8 pm	what time ?	wednesday	almost christmas	2	angelika	8 pm
+movies_00000189	3	no , time is not 6.30 pm	can ' t order tickets for 8 pm , how about 6.30 pm instead ?	wednesday	almost christmas	2	angelika	8 pm
+movies_00000189	4	goodbye .	unable to buy 2 tickets for almost christmas on wednesday in angelika	wednesday	almost christmas	2	angelika	8 pm
+movies_00000194	0	buy almost christmas tickets for today at the the stanford theater .		today	almost christmas	none	the stanford theater	none
+movies_00000194	1	1 .	how many tickets would you like ?	today	almost christmas	1	the stanford theater	none
+movies_00000194	2	2 pm .	for what time ?	today	almost christmas	1	the stanford theater	2 pm
+movies_00000194	3	yes .	sorry , there are no 2 pm showtimes available . would you like tickets for the 7 pm showtime ?	today	almost christmas	1	the stanford theater	7 pm
+movies_00000194	4	goodbye .	okay . i ' ve purchased you 1 ticket for almost christmas at the stanford theater . your movie begins at 7 pm .	today	almost christmas	1	the stanford theater	7 pm
+movies_00000209	0	i want some movie tickets .		none	none	none	none	none
+movies_00000209	1	buy 3 , please .	okay , how many ?	none	none	3	none	none
+movies_00000209	2	i want a 1 pm showing of almost christmas at angelika theatre .	all right , what movie do you want to see , when do you want to see it , and at which theatre ?	none	almost christmas	3	angelika	1 pm
+movies_00000209	3	friday .	okay , which day would you like to see it ?	friday	almost christmas	3	angelika	1 pm
+movies_00000209	4	that ' s no good . thanks , that ' s all for now . bye !	sorry , i can ' t find 1 pm for friday . how about 5 pm or 6.15 pm ?	friday	almost christmas	3	angelika	1 pm
+movies_00000217	0	i want to buy movie tickets		none	none	none	none	none
+movies_00000217	1	3	how many tickets	none	none	3	none	none
+movies_00000217	2	almost christmas for saturday	what movie and what date	saturday	almost christmas	3	none	none
+movies_00000217	3	yes	please confirm this is almost christmas for saturday	saturday	almost christmas	3	none	none
+movies_00000217	4	amc mercado	which theatre do you prefer	saturday	almost christmas	3	amc mercado	none
+movies_00000217	5	7.15 pm	what time do you prefer	saturday	almost christmas	3	amc mercado	7.15 pm
+movies_00000217	6	yes	please confirm this if for saturday for 3 tickets to almost christmas at 7.15 pm at amc mercado	saturday	almost christmas	3	amc mercado	7.15 pm
+movies_00000217	7	thanks . bye !	ok , purchase is confirmed	saturday	almost christmas	3	amc mercado	7.15 pm
+movies_00000218	0	buy movie tickets almost christmas		none	almost christmas	none	none	none
+movies_00000218	1	right	almost christmas right ?	none	almost christmas	none	none	none
+movies_00000218	2	3	how many tickets ?	none	almost christmas	3	none	none
+movies_00000218	3	amc mercado , next monday at 1 pm	which theatre would you like and at what time ?	next monday	almost christmas	3	amc mercado	1 pm
+movies_00000218	4	yes	that ' s amc mercado , next monday at 1 pm ?	next monday	almost christmas	3	amc mercado	1 pm
+movies_00000218	5	6 pm	sorry 1 pm is not available . how about 5 pm or 7 pm ?	next monday	almost christmas	3	amc mercado	6 pm
+movies_00000218	6	ok 5 pm	there are no showtimes at 6 pm , only 5 pm or 7 pm	next monday	almost christmas	3	amc mercado	5 pm
+movies_00000218	7	thanks	confirmed 3 tickets to almost christmas at amc mercado , next monday at 5 pm ?	next monday	almost christmas	3	amc mercado	5 pm
+movies_00000228	0	i want to buy tickets for the movie almost christmas		none	almost christmas	none	none	none
+movies_00000228	1	yes .	for almost christmas , correct ?	none	almost christmas	none	none	none
+movies_00000228	2	at 6 pm	what time would you like ?	none	almost christmas	none	none	6 pm
+movies_00000228	3	2 tickets and at the amc mercado theatre .	how many tickets ?	none	almost christmas	2	amc mercado	6 pm
+movies_00000228	4	tonight .	what day ?	tonight	almost christmas	2	amc mercado	6 pm
+movies_00000228	5	yes	there isn ' t a movie time at 6 pm , but there is one at 6.15 pm . is that okay ?	tonight	almost christmas	2	amc mercado	6.15 pm
+movies_00000228	6	bye	okay , i ' ve purchased 2 tickets for almost christmas for tonight at 6.15 pm at amc mercado .	tonight	almost christmas	2	amc mercado	6.15 pm
+movies_00000231	0	can you help me buy movie tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000241	0	i would like to buy some movie tickets .		none	none	none	none	none
+movies_00000241	1	how about the the stanford theater .	sure , at which theater ?	none	none	none	the stanford theater	none
+movies_00000241	2	ok	ok , i ' ll check what ' s playing at the stanford theater .	none	none	none	the stanford theater	none
+movies_00000241	3	7.15 pm ?	what time do you want to go to the movies ?	none	none	none	the stanford theater	7.15 pm
+movies_00000241	4	almost christmas	what movie do you want to see ?	none	almost christmas	none	the stanford theater	7.15 pm
+movies_00000241	5	tonight	what day are we talking about ?	tonight	almost christmas	none	the stanford theater	7.15 pm
+movies_00000241	6	2	how many tickets ?	tonight	almost christmas	2	the stanford theater	7.15 pm
+movies_00000241	7	yes , 2 tickets .	just want to confirm , you said 2 tickets ?	tonight	almost christmas	2	the stanford theater	7.15 pm
+movies_00000241	8	no	sorry , it looks like that film isn ' t playing at 7.15 pm . it is playing at 6 pm , is that ok ?	tonight	almost christmas	2	the stanford theater	7.15 pm
+movies_00000241	9	how about friday ?	sorry about that , i ' ll cancel buying those 2 tickets to go see almost christmas tonight at the the stanford theater .	friday	almost christmas	2	the stanford theater	7.15 pm
+movies_00000241	10	please look for friday .	sure , i ' ll check there friday showtimes .	friday	almost christmas	2	the stanford theater	7.15 pm
+movies_00000241	11	no thank you . thanks for your help .	still no showing at 7.15 pm . but it looks like it ' s playing at 5 pm or 6 pm ?	friday	almost christmas	2	the stanford theater	7.15 pm
+movies_00000253	0	get me some tickets for almost christmas at lincoln square cinemas		none	almost christmas	none	lincoln square cinemas	none
+movies_00000253	1	for tomorrow , 2 tickets at 12 pm	ok , for what time and date and how many tickets	tomorrow	almost christmas	2	lincoln square cinemas	12 pm
+movies_00000253	2	that ' s right , 12 pm tomorrow , 2 tickets	ok , so 2 tickets for 12 pm tomorrow .	tomorrow	almost christmas	2	lincoln square cinemas	12 pm
+movies_00000253	3	how about 8 pm	there were no tickets for 12 pm . do you want to go at 6 pm , 7.30 pm or 8 pm	tomorrow	almost christmas	2	lincoln square cinemas	8 pm
+movies_00000253	4	thanks , later . bye !	ok , got you 2 tickets for tomorrow at 8 pm for almost christmas at lincoln square cinemas	tomorrow	almost christmas	2	lincoln square cinemas	8 pm
+movies_00000255	0	buy movie tickets		none	none	none	none	none
+movies_00000255	1	shoreline theater	from which theater	none	none	none	shoreline theater	none
+movies_00000255	2	2 for almost christmas	what movie do you want to see and how many tickets do you want ?	none	almost christmas	2	shoreline theater	none
+movies_00000255	3	yes	ok , 2 tickets for almost christmas	none	almost christmas	2	shoreline theater	none
+movies_00000255	4	buy tickets for tonight at 8 pm	what day and time do you want to buy tickets for	tonight	almost christmas	2	shoreline theater	8 pm
+movies_00000255	5	i don ' t understand .	8 pm is not available . would you like 6.30 pm , 7 pm or 7.15 pm ?	tonight	almost christmas	2	shoreline theater	8 pm
+movies_00000255	6	how about on friday	there are no tickets for 8 pm you can choose from 6.30 pm , 7 pm , or 7.15 pm	friday	almost christmas	2	shoreline theater	8 pm
+movies_00000255	7	how about saturday ?	there are no tickets for 8 pm would you like 6.15 pm , 6.30 pm or 7.30 pm ?	saturday	almost christmas	2	shoreline theater	8 pm
+movies_00000255	8	yes .	you want to buy tickets for saturday ?	saturday	almost christmas	2	shoreline theater	8 pm
+movies_00000255	9	what about 7.15 pm ?	there are no tickets available at 8 pm . you can choose 6.30 pm , 7.30 pm , or 8.30 pm	saturday	almost christmas	2	shoreline theater	7.15 pm
+movies_00000255	10	no thank you , goodbye .	there are no tickets at 7.15 pm you can choose 5 pm , 6.30 pm , 7.30 pm or 8.30 pm	saturday	almost christmas	2	shoreline theater	7.15 pm
+movies_00000262	0	i want to purchase movie tickets to see almost christmas at the aquarius theatre .		none	almost christmas	none	aquarius	none
+movies_00000262	1	that ' s right .	please confirm that you want to see almost christmas at aquarius theatre .	none	almost christmas	none	aquarius	none
+movies_00000262	2	i want the tickets for today for 3 people .	how many tickets do you need , and what date would you like ?	today	almost christmas	3	aquarius	none
+movies_00000262	3	1 pm will be good .	what time should i make it for ?	today	almost christmas	3	aquarius	1 pm
+movies_00000262	4	no , that ' s no good . how about 12 pm ?	1 pm isn ' t available . how about 6 pm or 6.15 pm ?	today	almost christmas	3	aquarius	12 pm
+movies_00000262	5	8 pm works for me .	12 pm isn ' t available either . how about 6.15 pm , 8 pm , or 8.30 pm ?	today	almost christmas	3	aquarius	8 pm
+movies_00000262	6	yes thank you . goodbye .	okay , bought you 8 pm tickets to see almost christmas at the aquarius theatre with 3 people ?	today	almost christmas	3	aquarius	8 pm
+movies_00000265	0	buy movie tickets for almost christmas at the the stanford theater .		none	almost christmas	none	the stanford theater	none
+movies_00000265	1	yes , almost christmas at the stanford theater	just to confirm , almost christmas at the stanford theater	none	almost christmas	none	the stanford theater	none
+movies_00000265	2	friday	for what date ?	friday	almost christmas	none	the stanford theater	none
+movies_00000265	3	3 tickets	how many tickets ?	friday	almost christmas	3	the stanford theater	none
+movies_00000265	4	7.15 pm	what time	friday	almost christmas	3	the stanford theater	7.15 pm
+movies_00000265	5	yes , 3 tickets to see almost christmas this friday at the stanford theater at 7.15 pm .	just to confirm , 3 tickets to see almost christmas this friday at the stanford theater at 7.15 pm .	friday	almost christmas	3	the stanford theater	7.15 pm
+movies_00000265	6	thank you and goodbye .	purchase is confirmed for 3 tickets to see almost christmas this friday at the the stanford theater at 7.15 pm .	friday	almost christmas	3	the stanford theater	7.15 pm
+movies_00000266	0	i want to buy tickets to almost christmas at angelika		none	almost christmas	none	angelika	none
+movies_00000266	1	affirmative	ok , the movie is almost christmas at angelika theater , correct ?	none	almost christmas	none	angelika	none
+movies_00000266	2	sunday for 1 ticket at 1 pm	how many tickets and what date and time ?	sunday	almost christmas	1	angelika	1 pm
+movies_00000266	3	no thanks	can ' t do 1 pm . what about 6 pm or 6.15 pm ?	sunday	almost christmas	1	angelika	1 pm
+movies_00000271	0	can you help me buy movie tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000272	0	i would like to buy movie tickets for almost christmas .		none	almost christmas	none	none	none
+movies_00000272	1	3 tickets for the 1 pm showing this sunday at shoreline theater .	which theater , how many tickets , and which showing would you like to attend ?	sunday	almost christmas	3	shoreline theater	1 pm
+movies_00000272	2	i would like to cancel my request , bye !	the 1 pm showing is unavailable , but there are available showings at 6.15 pm and 8 pm	sunday	almost christmas	3	shoreline theater	1 pm
+movies_00000275	0	i want to buy tickets to the movie almost christmas .		none	almost christmas	none	none	none
+movies_00000275	1	1 ticket .	how many tickets would you like ?	none	almost christmas	1	none	none
+movies_00000275	2	yes .	1 ticket . is that correct ?	none	almost christmas	1	none	none
+movies_00000275	3	i would like to see the movie on saturday night at 8 pm .	what is the date and showtime you would like to see the movie ?	saturday	almost christmas	1	none	8 pm
+movies_00000275	4	aquarius theater .	which theater do you want to go to ?	saturday	almost christmas	1	aquarius	8 pm
+movies_00000275	5	yes .	aquarius . is that correct ?	saturday	almost christmas	1	aquarius	8 pm
+movies_00000275	6	no , that won ' t work .	there is no showing at 8 pm but there is one at 8.30 pm . is this time ok ?	saturday	almost christmas	1	aquarius	8 pm
+movies_00000275	7	thank you .	i will cancel the purchase of 1 ticket to see almost christmas on saturday at aquarius theater .	saturday	almost christmas	1	aquarius	8 pm
+movies_00000284	0	can you help me buy movie tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000288	0	buy movie tickets		none	none	none	none	none
+movies_00000288	1	friday	what date ?	friday	none	none	none	none
+movies_00000288	2	amc mercado 1 ticket	which theater and how many tickets ?	friday	none	1	amc mercado	none
+movies_00000288	3	2 pm	what time ?	friday	none	1	amc mercado	2 pm
+movies_00000288	4	almost christmas	what movie ?	friday	almost christmas	1	amc mercado	2 pm
+movies_00000288	5	6.15 pm	2 pm is not available . please choose 6 pm or 6.15 pm	friday	almost christmas	1	amc mercado	6.15 pm
+movies_00000288	6	thanks , goodbye .	purchase confirmed for 1 ticket for almost christmas on friday at 6.15 pm at amc mercado	friday	almost christmas	1	amc mercado	6.15 pm
+movies_00000290	0	buy tickets for almost christmas at the amc mercado		none	almost christmas	none	amc mercado	none
+movies_00000290	1	wednesday	on what date ?	wednesday	almost christmas	none	amc mercado	none
+movies_00000290	2	yes	wednesday , correct ?	wednesday	almost christmas	none	amc mercado	none
+movies_00000290	3	1	how many tickets	wednesday	almost christmas	1	amc mercado	none
+movies_00000290	4	any	what time ?	wednesday	almost christmas	1	amc mercado	dontcare
+movies_00000290	5	6 pm	6 pm 6.30 pm or 7.30 pm ?	wednesday	almost christmas	1	amc mercado	6 pm
+movies_00000290	6	thanks	i have goten you 1 ticket for almost christmas at amc mercado on wednesday at 6 pm	wednesday	almost christmas	1	amc mercado	6 pm
+movies_00000291	0	i need movie tickets		none	none	none	none	none
+movies_00000291	1	aquarius theatre	what theatre	none	none	none	aquarius	none
+movies_00000291	2	2	how many tickets	none	none	2	aquarius	none
+movies_00000291	3	almost christmas next monday at 12 pm	what movie and what date and time	next monday	almost christmas	2	aquarius	12 pm
+movies_00000291	4	yes	next monday at 12 pm	next monday	almost christmas	2	aquarius	12 pm
+movies_00000291	5	that doesnt work . how about wednesday	12 pm is not available . available times are 7 pm , 7.15 pm , and 8 pm	wednesday	almost christmas	2	aquarius	12 pm
+movies_00000291	6	sounds good	12 pm is still not available , show time is available at 5 pm on wednesday	wednesday	almost christmas	2	aquarius	5 pm
+movies_00000291	7	thanks	2 tickets confirmed for almost christmas on wednesday at 5 pm	wednesday	almost christmas	2	aquarius	5 pm
+movies_00000292	0	i want to purchase movie tickets , please		none	none	none	none	none
+movies_00000292	1	3	how many tickets would you like ?	none	none	3	none	none
+movies_00000292	2	i ' d like to see almost christmas at shoreline theater . any time is fine .	what movie do you want to see ? which theatre and for what time ?	none	almost christmas	3	shoreline theater	dontcare
+movies_00000292	3	sunday	what day would you like these tickets for ?	sunday	almost christmas	3	shoreline theater	dontcare
+movies_00000292	4	yes	is 7 pm okay ?	sunday	almost christmas	3	shoreline theater	7 pm
+movies_00000292	5	excuse me ?	okay , 3 tickets for almost christmas at shoreline theater for 7 pm on sunday have been purchased .	sunday	almost christmas	3	shoreline theater	7 pm
+movies_00000292	6	thanks . bye	i have purchased 3 tickets for almost christmas at shoreline theater for 7 pm on sunday .	sunday	almost christmas	3	shoreline theater	7 pm
+movies_00000304	0	i ' d like to buy tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000304	1	i ' d like 3 tickets for wednesday at the stanford theater	how many tickets would you like ? and on what day and at what theater ?	wednesday	almost christmas	3	the stanford theater	none
+movies_00000304	2	8 pm	what time ?	wednesday	almost christmas	3	the stanford theater	8 pm
+movies_00000304	3	that doesn ' t work , bye	there aren ' t any tickets for 8 pm , how about 7.15 pm , 7.30 pm , or 8.30 pm	wednesday	almost christmas	3	the stanford theater	8 pm
+movies_00000305	0	i need to buy tickets for the movie , almost christmas , at the shoreline theater .		none	almost christmas	none	shoreline theater	none
+movies_00000305	1	i don ' t understand you .	how many tickets would you like ?	none	almost christmas	none	shoreline theater	none
+movies_00000305	2	is it going to rain soon	give me the number of tickets to buy .	none	almost christmas	none	shoreline theater	none
+movies_00000305	3	i need 1 ticket for tomorrow .	how many tickets do you need ?	tomorrow	almost christmas	1	shoreline theater	none
+movies_00000305	4	okay .	okay , i ' ll buy 1 ticket for tomorrow .	tomorrow	almost christmas	1	shoreline theater	none
+movies_00000305	5	early afternoon , about 1 pm .	what time would you like to see the movie ?	tomorrow	almost christmas	1	shoreline theater	1 pm
+movies_00000305	6	okay .	alright , it ' s 1 pm then .	tomorrow	almost christmas	1	shoreline theater	1 pm
+movies_00000305	7	no , i ' d rather see it earlier like around 2 pm .	i checked and no tickets are available for 1 pm , but you can choose from 6.15 pm or 7 pm or 7.30 pm showings .	tomorrow	almost christmas	1	shoreline theater	2 pm
+movies_00000305	8	that doesn ' t work for me . goodbye .	sorry , 2 pm is also not available . only 6.15 pm , 7 pm or 7.30 pm pm is available .	tomorrow	almost christmas	1	shoreline theater	2 pm
+movies_00000309	0	buy movie tickets for almost christmas .		none	almost christmas	none	none	none
+movies_00000309	1	1 pm	what time ?	none	almost christmas	none	none	1 pm
+movies_00000309	2	2 tickets at amc mercado today .	what theater , day , and how many tickets ?	today	almost christmas	2	amc mercado	1 pm
+movies_00000309	3	no	there is no 1 pm show . how about 6 pm	today	almost christmas	2	amc mercado	1 pm
+movies_00000309	4	thank you	cannot buy tickets for any other time for that movie , date , and theater .	today	almost christmas	2	amc mercado	1 pm
+movies_00000313	0	i want to buy movie tickets for almost christmas at amc mercado		none	almost christmas	none	amc mercado	none
+movies_00000313	1	3 tickets	how many tickets do you need ?	none	almost christmas	3	amc mercado	none
+movies_00000313	2	sunday anytime	what date and time do you want ?	sunday	almost christmas	3	amc mercado	dontcare
+movies_00000313	3	6 pm please	which to you prefer : 6 pm or 8.30 pm	sunday	almost christmas	3	amc mercado	6 pm
+movies_00000313	4	ok , thanks . goodbye	tickets have been purchased for 3 tickets on sunday to see almost christmas at amc mercado	sunday	almost christmas	3	amc mercado	6 pm
+movies_00000314	0	buy movie tickets for 10:00 pm		none	none	none	none	10:00 pm
+movies_00000314	1	the movie will be almost christmas and theater name is century 20 great mall .	please tell me the movie and theater name .	none	almost christmas	none	century 20 great mall	10:00 pm
+movies_00000314	2	is going to be 3 tickets for tomorrow .	how many tickets you would like and date ?	tomorrow	almost christmas	3	century 20 great mall	10:00 pm
+movies_00000314	3	it ' s ok .	confirm the following time : 10:00 pm .	tomorrow	almost christmas	3	century 20 great mall	10:00 pm
+movies_00000314	4	thanks , bye .	your purchase is confirmed , with the given details movie is almost christmas and number of tickets is 3 for tomorrow march march 08 th at 10:00 pm in century 20 great mall .	tomorrow	almost christmas	3	century 20 great mall	10:00 pm
+movies_00000315	0	i want to buy movie tickets to almost christmas .		none	almost christmas	none	none	none
+movies_00000315	1	lincoln square cinemas	what theatre would you like those for ?	none	almost christmas	none	lincoln square cinemas	none
+movies_00000315	2	3 tickets for saturday .	what date would you like tickets for , and how many tickets would you like ?	saturday	almost christmas	3	lincoln square cinemas	none
+movies_00000315	3	yes	just to confirm , you said 3 tickets for saturday ?	saturday	almost christmas	3	lincoln square cinemas	none
+movies_00000315	4	12 pm would be good	what time would you like ?	saturday	almost christmas	3	lincoln square cinemas	12 pm
+movies_00000315	5	sure , 7 pm would be fine .	i ' m sorry , 12 pm is unavailable . would 7 pm , 7.30 pm , or 8 pm be okay ?	saturday	almost christmas	3	lincoln square cinemas	7 pm
+movies_00000315	6	thank you , have a good night	okay , you now have 3 tickets to almost christmas at lincoln square cinemas on saturday at 7 pm .	saturday	almost christmas	3	lincoln square cinemas	7 pm
+movies_00000317	0	i need movie tickets		none	none	none	none	none
+movies_00000317	1	amc mercado and the movie is almost christmas	what theater ?	none	almost christmas	none	amc mercado	none
+movies_00000317	2	for 6 pm	what time ?	none	almost christmas	none	amc mercado	6 pm
+movies_00000317	3	for saturday .	what day ?	saturday	almost christmas	none	amc mercado	6 pm
+movies_00000317	4	3	how many tickets ?	saturday	almost christmas	3	amc mercado	6 pm
+movies_00000317	5	how about for 1 pm	i cannot complete the purchase	saturday	almost christmas	3	amc mercado	1 pm
+movies_00000317	6	ok thanks	unable to complete this purchase	saturday	almost christmas	3	amc mercado	1 pm
+movies_00000319	0	i want to buy tickets to almost christmas .		none	almost christmas	none	none	none
+movies_00000319	1	i did .	did you say almost christmas ?	none	almost christmas	none	none	none
+movies_00000319	2	3 .	how many tickets ?	none	almost christmas	3	none	none
+movies_00000319	3	yes .	i heard 3 tickets . is that correct ?	none	almost christmas	3	none	none
+movies_00000319	4	shoreline theater .	where would you like to see the movie ?	none	almost christmas	3	shoreline theater	none
+movies_00000319	5	any time tonight .	which showing do you want tickets to , and on what date ?	tonight	almost christmas	3	shoreline theater	dontcare
+movies_00000319	6	6.15 pm sounds good .	ok , 6.15 pm , 7.15 pm , and 7.30 pm are available . which time would you prefer ?	tonight	almost christmas	3	shoreline theater	6.15 pm
+movies_00000319	7	thanks .	ok , just to confirm : you want 3 tickets to almost christmas for tonight at 6.15 pm at shoreline theater . is that correct ?	tonight	almost christmas	3	shoreline theater	6.15 pm
+movies_00000321	0	please get tickets for me to see almost christmas at the amc mercado		none	almost christmas	none	amc mercado	none
+movies_00000321	1	1 ticket for this wednesday at 6 pm .	sure . how many tickets do you need and what time and date would you like to go ?	wednesday	almost christmas	1	amc mercado	6 pm
+movies_00000321	2	yes .	so you want 1 ticket to see almost christmas on wednesday at 6 pm at the amc mercado theater ?	wednesday	almost christmas	1	amc mercado	6 pm
+movies_00000321	3	thank you . bye !	ok . i ' ve confirmed a purchase of 1 ticket for wednesday at 6 pm to see almost christmas at the amc mercado .	wednesday	almost christmas	1	amc mercado	6 pm
+movies_00000324	0	buy tickets for almost christmas		none	almost christmas	none	none	none
+movies_00000324	1	yes that ' s correct .	is almost christmas correct ?	none	almost christmas	none	none	none
+movies_00000324	2	angelika theater for 3 tickets .	what theater and how many tickets ?	none	almost christmas	3	angelika	none
+movies_00000324	3	today at 2 pm .	what day ?	today	almost christmas	3	angelika	2 pm
+movies_00000324	4	change the day to sunday	sorry 2 pm isn ' t available , there ' s 7.15 pm or 8.30 pm	sunday	almost christmas	3	angelika	2 pm
+movies_00000324	5	alright , let ' s do 5 pm	2 pm is not available . there ' s a sunday showing at 5 pm	sunday	almost christmas	3	angelika	5 pm
+movies_00000324	6	sounds good , thanks . bye !	alright , 3 tickets for almost christmas at 5 pm on sunday at angelika theater .	sunday	almost christmas	3	angelika	5 pm
+movies_00000329	0	please purchase tickets for the movie almost christmas at the lincoln square cinemas		none	almost christmas	none	lincoln square cinemas	none
+movies_00000329	1	purchase 2 8 pm tickets for next monday	sure . please say what day and time you want the tickets purchased for and for how many people	next monday	almost christmas	2	lincoln square cinemas	8 pm
+movies_00000329	2	yes everything is right	please confirm the details of your request : 2 tickets for the movie almost christmas showing next monday at 8 pm at the lincoln square cinemas	next monday	almost christmas	2	lincoln square cinemas	8 pm
+movies_00000329	3	bye !	okay your request has been made . you have purchased 2 tickets to see the movie almost christmas playing next monday at 8 pm at the lincoln square cinemas	next monday	almost christmas	2	lincoln square cinemas	8 pm
+movies_00000333	0	please purchase 6 movie tickets for the movie the arrival for wednesday .		wednesday	arrival	6	none	none
+movies_00000333	1	please find movie times for the arrival at 8:00 pm , at cinemark redwood downtown 20 and xd .	do you have a movie theater and time in mind ?	wednesday	arrival	6	cinemark redwood downtown 20 and xd	8:00 pm
+movies_00000333	2	yes , that ' s correct .	you ' d like movie times for 8:00 pm , is that correct ?	wednesday	arrival	6	cinemark redwood downtown 20 and xd	8:00 pm
+movies_00000333	3	goodbye .	okay , i have purchased 6 tickets for the movie arrival , showing at cinemark redwood downtown 20 and xd , for march 08 at 8:00 pm .	wednesday	arrival	6	cinemark redwood downtown 20 and xd	8:00 pm
+movies_00000348	0	hello , i want to buy movie tickets for arrival on wednesday at the cinelux almaden cafe & lounge for 6:00 pm		wednesday	arrival	none	cinelux almaden cafe & lounge	6:00 pm
+movies_00000348	1	6	how many tickets would you like ?	wednesday	arrival	6	cinelux almaden cafe & lounge	6:00 pm
+movies_00000348	2	yes , 6:00 pm	and that was for 6:00 pm ?	wednesday	arrival	6	cinelux almaden cafe & lounge	6:00 pm
+movies_00000348	3	goodbye	thank you , i can confirm your purchase for 6 tickets for arrival at 6:00 pm march 08 at the cinelux almaden cafe & lounge	wednesday	arrival	6	cinelux almaden cafe & lounge	6:00 pm
+movies_00000349	0	i need movie tickets for 4:00 pm .		none	none	none	none	4:00 pm
+movies_00000349	1	4 tickets for arrival .	how many tickets and for what movie ?	none	arrival	4	none	4:00 pm
+movies_00000349	2	for tonight at cinearts @ santana row .	what day and which theater ?	tonight	arrival	4	cinearts @ santana row	4:00 pm
+movies_00000349	3	yes .	that ' s tonight at 4:00 pm ?	tonight	arrival	4	cinearts @ santana row	4:00 pm
+movies_00000349	4	goodbye .	confirming 4 tickets for arrival at 4:00 pm on march 07 at cinearts @ santana row .	tonight	arrival	4	cinearts @ santana row	4:00 pm
+movies_00000350	0	i need to buy 2 movie tickets to see hacksaw ridge		none	hacksaw ridge	2	none	none
+movies_00000350	1	century at pacific commons at 6:00 pm on wednesday	sure , what time , day and theater ?	wednesday	hacksaw ridge	2	century at pacific commons	6:00 pm
+movies_00000350	2	yes 6:00 pm is correct	ok , please confirm 6:00 pm .	wednesday	hacksaw ridge	2	century at pacific commons	6:00 pm
+movies_00000350	3	thanks	purchase confirmed for 2 tickets on wednesday march march 08 at 6:00 pm to see hacksaw ridge at century at pacific commons theater .	wednesday	hacksaw ridge	2	century at pacific commons	6:00 pm
+movies_00000353	0	buy 5 tickets to hacksaw ridge on tuesday at 10:00 pm at cinelux almaden cafe & lounge		tuesday	hacksaw ridge	5	cinelux almaden cafe & lounge	10:00 pm
+movies_00000353	1	yes	ok , please confirm that the time is 10:00 pm	tuesday	hacksaw ridge	5	cinelux almaden cafe & lounge	10:00 pm
+movies_00000353	2	thank you	your purchase for 5 tickets to hacksaw ridge on march 07 at 10:00 pm at cinelux almaden cafe & lounge has been confirmed .	tuesday	hacksaw ridge	5	cinelux almaden cafe & lounge	10:00 pm
+movies_00000363	0	purchase movie tickets for 6:00 pm		none	none	none	none	6:00 pm
+movies_00000363	1	hacksaw ridge at the century cinemas 16	ok , which movie would you like to see and what theater would you like to go to	none	hacksaw ridge	none	century cinemas 16	6:00 pm
+movies_00000363	2	6 tickets for wednesday	for what day and how many tickets would you like to purchase	wednesday	hacksaw ridge	6	century cinemas 16	6:00 pm
+movies_00000363	3	yes	for 6:00 pm correct ?	wednesday	hacksaw ridge	6	century cinemas 16	6:00 pm
+movies_00000363	4	thank you	purchase confirmed for 6 tickets to see hacksaw ridge at 6:00 pm on march march 08 , 2017 at the century cinemas 16	wednesday	hacksaw ridge	6	century cinemas 16	6:00 pm
+movies_00000374	0	i would like to purchase a ticket to watch ouija movie at the lincoln square cinemas		none	ouija	none	lincoln square cinemas	none
+movies_00000374	1	tickets for 2 ; for 12 pm	how many tickets would you be purchasing and for what time ?	none	ouija	2	lincoln square cinemas	12 pm
+movies_00000374	2	for sunday	for what date ?	sunday	ouija	2	lincoln square cinemas	12 pm
+movies_00000374	3	yes	to confirm , that is for sunday ?	sunday	ouija	2	lincoln square cinemas	12 pm
+movies_00000374	4	8.30 pm would be fine	there is no availability for 12 pm . how about for 7.15 pm or 8.30 pm ?	sunday	ouija	2	lincoln square cinemas	8.30 pm
+movies_00000374	5	ok , thank you and goodbye	i am sorry i was not able to make the purchase	sunday	ouija	2	lincoln square cinemas	8.30 pm
+movies_00000376	0	buy tickets for ouija		none	ouija	none	none	none
+movies_00000376	1	angelika theater	which theater would you like to go to ?	none	ouija	none	angelika	none
+movies_00000376	2	next monday	what time ?	next monday	ouija	none	angelika	none
+movies_00000376	3	3 tickets for 1 pm	please provide a time	next monday	ouija	3	angelika	1 pm
+movies_00000376	4	no thank you	1 pm is not available at this theather , please pick from the following times , 6.15 pm or 7 pm	next monday	ouija	3	angelika	1 pm
+movies_00000378	0	i need to buy movie tickets to ouija playing at aquarius		none	ouija	none	aquarius	none
+movies_00000378	1	yes	is ouija correct ?	none	ouija	none	aquarius	none
+movies_00000378	2	i don ' t understand	how many tickets ?	none	ouija	none	aquarius	none
+movies_00000378	3	2	how many tickets to you need ?	none	ouija	2	aquarius	none
+movies_00000378	4	for today	what day ?	today	ouija	2	aquarius	none
+movies_00000378	5	at 2 pm	what time ?	today	ouija	2	aquarius	2 pm
+movies_00000378	6	6 pm works	nothing is available for 2 pm , does 5 pm , 6 pm or 7 pm work for you ?	today	ouija	2	aquarius	6 pm
+movies_00000378	7	thanks , bye	2 tickets have been purchased for today at 6 pm to see ouija at aquarius	today	ouija	2	aquarius	6 pm
+movies_00000381	0	buy movie tickets for ouija at the stanford theater		none	ouija	none	the stanford theater	none
+movies_00000381	1	3 tickets	how many tickets ?	none	ouija	3	the stanford theater	none
+movies_00000381	2	7.15 pm	what time ?	none	ouija	3	the stanford theater	7.15 pm
+movies_00000381	3	tonight	what date ?	tonight	ouija	3	the stanford theater	7.15 pm
+movies_00000381	4	yes	ok , 3 tickets for ouija at 7.15 pm at the stanford theater for tonight	tonight	ouija	3	the stanford theater	7.15 pm
+movies_00000381	5	bye !	ok , the tickets have been purchased .	tonight	ouija	3	the stanford theater	7.15 pm
+movies_00000388	0	can you purchase tickets for me		none	none	none	none	none
+movies_00000388	1	yes , for ouija	would you like tickets for a movie	none	ouija	none	none	none
+movies_00000388	2	3 please	how many tickets	none	ouija	3	none	none
+movies_00000388	3	for sunday at 2 pm	for what date and time	sunday	ouija	3	none	2 pm
+movies_00000388	4	angelika	at which theater	sunday	ouija	3	angelika	2 pm
+movies_00000388	5	sure	2 pm is not available , how about 7 pm	sunday	ouija	3	angelika	7 pm
+movies_00000388	6	thanks	ok , 3 tickets were purchased to see ouija at angelika theater on sunday at 7 pm	sunday	ouija	3	angelika	7 pm
+movies_00000393	0	can you buy movie tickets for ouija at the stanford theater ?		none	ouija	none	the stanford theater	none
+movies_00000393	1	3 tickets for next monday at 7.15 pm	how many tickets do you need ?	next monday	ouija	3	the stanford theater	7.15 pm
+movies_00000393	2	never mind . thank you	there is no showing at 7.15 pm . pick from these times 5 pm , 7 pm , 7.30 pm , or 8 pm .	next monday	ouija	3	the stanford theater	7.15 pm
+movies_00000396	0	hi . i need tickets for the movie ouija at 8:00 pm at the amc saratoga 14		none	ouija	none	amc saratoga 14	8:00 pm
+movies_00000396	1	6 tickets for wednesday	how many tickets and for what date ?	wednesday	ouija	6	amc saratoga 14	8:00 pm
+movies_00000396	2	that ' s right .	and that is for 8:00 pm , right ?	wednesday	ouija	6	amc saratoga 14	8:00 pm
+movies_00000399	0	please buy movie tickets for movie ouija		none	ouija	none	none	none
+movies_00000399	1	lincoln square cinemas	provide theater preference	none	ouija	none	lincoln square cinemas	none
+movies_00000399	2	2 tickets for friday at 7.15 pm	how many tickets and what time ?	friday	ouija	2	lincoln square cinemas	7.15 pm
+movies_00000407	0	i want to buy movie tickets		none	none	none	none	none
+movies_00000407	1	3 tickets for ouija	okay . how many would you like ?	none	ouija	3	none	none
+movies_00000407	2	what ?	okay . 3 tickets for ouija . is that right ?	none	ouija	3	none	none
+movies_00000407	3	yes	3 tickets for ouija . is that right ?	none	ouija	3	none	none
+movies_00000407	4	the stanford theater for friday at 1 pm	which theater would you prefer , and what time do you want to go ?	friday	ouija	3	the stanford theater	1 pm
+movies_00000407	5	no thanks . bye .	i ' m sorry , the only times available are 5 pm or 6 pm	friday	ouija	3	the stanford theater	1 pm
+movies_00000408	0	i want to buy tickets for ouija		none	ouija	none	none	none
+movies_00000408	1	i need 3 tickets	how many tickets do you need ?	none	ouija	3	none	none
+movies_00000408	2	i need tickets for tonight at 7.15 pm at te aquarius .	which theater are you going to ? what date and time do you need a ticket for ?	tonight	ouija	3	aquarius	7.15 pm
+movies_00000414	0	can you buy me movie tickets for ouija at lincoln square cinemas ?		none	ouija	none	lincoln square cinemas	none
+movies_00000414	1	1 ticket for tomorrow	how many tickets would you like ?	tomorrow	ouija	1	lincoln square cinemas	none
+movies_00000414	2	it doesn ' t matter	which time	tomorrow	ouija	1	lincoln square cinemas	dontcare
+movies_00000414	3	i ' ll go to the 6.30 pm showing	do you want 6 pm , 6.30 pm , or 8 pm	tomorrow	ouija	1	lincoln square cinemas	6.30 pm
+movies_00000414	4	bye	1 ticket for ouija at lincoln square cinemas tomorrow at 6.30 pm has been purchased	tomorrow	ouija	1	lincoln square cinemas	6.30 pm
+movies_00000421	0	buy tickets for ouija at the shoreline theater for saturday		saturday	ouija	none	shoreline theater	none
+movies_00000421	1	2 tickets and any time	how many tickets and what time	saturday	ouija	2	shoreline theater	dontcare
+movies_00000421	2	5 pm	choose from 5 pm , 6.15 pm or 6.30 pm	saturday	ouija	2	shoreline theater	5 pm
+movies_00000421	3	thank you	you have purchased 2 tickets for saturday to see ouija at the shoreline theater	saturday	ouija	2	shoreline theater	5 pm
+movies_00000426	0	hi , please buy 6 movie tickets		none	none	6	none	none
+movies_00000426	1	amc newpark 12 , ouija and wednesday	which theater and movie and date	wednesday	ouija	6	amc newpark 12	none
+movies_00000426	2	6:00 pm	what time	wednesday	ouija	6	amc newpark 12	6:00 pm
+movies_00000426	3	accept	confirm at 6:00 pm ?	wednesday	ouija	6	amc newpark 12	6:00 pm
+movies_00000426	4	thank you	your purchase has been confirmed	wednesday	ouija	6	amc newpark 12	6:00 pm
+movies_00000430	0	get movie tickets for ouija		none	ouija	none	none	none
+movies_00000430	1	yes , ouija	you want to purchase tickets for the movie ouija ? please confirm .	none	ouija	none	none	none
+movies_00000430	2	at the stanford theater	where would you like to see the movie ?	none	ouija	none	the stanford theater	none
+movies_00000430	3	2	how many tickets would you like to purchase ?	none	ouija	2	the stanford theater	none
+movies_00000430	4	8 pm	and what time would you like to see the movie ?	none	ouija	2	the stanford theater	8 pm
+movies_00000432	0	hi . i need tickets for the movie ouija at 8:00 pm at the amc saratoga 14		none	ouija	none	amc saratoga 14	8:00 pm
+movies_00000432	1	6 tickets for wednesday	how many tickets and for what date ?	wednesday	ouija	6	amc saratoga 14	8:00 pm
+movies_00000432	2	that ' s right .	and that is for 8:00 pm , right ?	wednesday	ouija	6	amc saratoga 14	8:00 pm
+movies_00000440	0	buy ticket for the movie ouija for tomorrow at shoreline theater		tomorrow	ouija	none	shoreline theater	none
+movies_00000440	1	yes	tickets for ouija to watch tomorrow ?	tomorrow	ouija	none	shoreline theater	none
+movies_00000440	2	yes	you want to watch the movie ouija tomorrow	tomorrow	ouija	none	shoreline theater	none
+movies_00000440	3	at 2 pm . buy 2 tickets	what time do you want	tomorrow	ouija	2	shoreline theater	2 pm
+movies_00000440	4	no thanks . i am not available then .	2 pm is not available . choose between 5 pm 7 pm	tomorrow	ouija	2	shoreline theater	2 pm
+movies_00000453	0	get movie tickets for ouija		none	ouija	none	none	none
+movies_00000453	1	yes , ouija	you want to purchase tickets for the movie ouija ? please confirm .	none	ouija	none	none	none
+movies_00000453	2	at the stanford theater	where would you like to see the movie ?	none	ouija	none	the stanford theater	none
+movies_00000453	3	2	how many tickets would you like to purchase ?	none	ouija	2	the stanford theater	none
+movies_00000453	4	8 pm	and what time would you like to see the movie ?	none	ouija	2	the stanford theater	8 pm
+movies_00000458	0	i need movie tickets .		none	none	none	none	none
+movies_00000458	1	lincoln square cinemas	which theatre would you like ?	none	none	none	lincoln square cinemas	none
+movies_00000458	2	friday .	okay . what date ?	friday	none	none	lincoln square cinemas	none
+movies_00000458	3	ouija	and which movie would you like to see ?	friday	ouija	none	lincoln square cinemas	none
+movies_00000458	4	3 tickets for 1 pm	great . how many tickets do you need and what time ?	friday	ouija	3	lincoln square cinemas	1 pm
+movies_00000458	5	no , but thanks . talk to you later . bye !	looks like 1 pm is not an option , but there are showings at 6 pm and 7.15 pm . would either of those work ?	friday	ouija	3	lincoln square cinemas	1 pm
+movies_00000464	0	i wan to buy movie tickets to ouija at the aquarius theatre .		none	ouija	none	aquarius	none
+movies_00000464	1	i would like 2 tickets for today at 2 pm .	what day and how many tickets ?	today	ouija	2	aquarius	2 pm
+movies_00000464	2	the 5 pm showtime is good .	a 2 pm showtime is unavailable , how about 5 pm or 6.15 pm .	today	ouija	2	aquarius	5 pm
+movies_00000464	3	bye	your tickets for the showtime of 5 pm for the movie ouija for 2 people are booked .	today	ouija	2	aquarius	5 pm
+movies_00000469	0	purchase movie tickets for ouija		none	ouija	none	none	none
+movies_00000469	1	yes , i want to see ouija	you want to see ouija ?	none	ouija	none	none	none
+movies_00000469	2	2 tickets for tonight at shoreline theater	which theater , what date , and how many tickets ?	tonight	ouija	2	shoreline theater	none
+movies_00000469	3	yes , 2 tickets for tonight at shoreline theater .	you would like 2 tickets for tonight at shoreline theater ?	tonight	ouija	2	shoreline theater	none
+movies_00000469	4	6 pm	what time do you want to see the movie ?	tonight	ouija	2	shoreline theater	6 pm
+movies_00000469	5	8.30 pm	there is no showing for 6 pm . there is a 6.15 pm , 7.30 pm , or 8.30 pm showing available .	tonight	ouija	2	shoreline theater	8.30 pm
+movies_00000469	6	thanks ! later ! bye !	i have you confirmed for 2 tickets for the 8.30 pm showtime tonight at shoreline theater	tonight	ouija	2	shoreline theater	8.30 pm
+movies_00000498	0	i would like to get some movie tickets		none	none	none	none	none
+movies_00000498	1	ouija	what movie do you want to go see ?	none	ouija	none	none	none
+movies_00000498	2	1 please .	how many tickets would you like ?	none	ouija	1	none	none
+movies_00000498	3	the stanford theater .	what theater would you like to see the movie at ?	none	ouija	1	the stanford theater	none
+movies_00000498	4	friday and 1 pm please .	what day and time do you want to watch it ?	friday	ouija	1	the stanford theater	1 pm
+movies_00000498	5	yes , that is correct .	okay , to confirm , you want to go on friday at 1 pm ?	friday	ouija	1	the stanford theater	1 pm
+movies_00000498	6	no , neither of those work . what are the showtimes on next monday ?	that time isn ' t available unfortunately . 5 pm or 7 pm showtimes are available though if you are interested .	next monday	ouija	1	the stanford theater	1 pm
+movies_00000504	0	buy tickets for the movie ouija at the shoreline theater theater		none	ouija	none	shoreline theater	none
+movies_00000504	1	yes ouija movie and at shoreline theater	confirm please that the movie is ouija and that the theater is shoreline theater .	none	ouija	none	shoreline theater	none
+movies_00000504	2	can ' t understand that	what is your preference for number of tickets and the date ?	none	ouija	none	shoreline theater	none
+movies_00000504	3	3 tickets on friday at 2 pm	how many tickets do you need and for which date ?	friday	ouija	3	shoreline theater	2 pm
+movies_00000504	4	yup	please confirm the time is 2 pm and the number of tickets is 3 .	friday	ouija	3	shoreline theater	2 pm
+movies_00000504	5	ok the 8 pm	2 pm is unavailable . choose 5 pm , 6.15 pm , or 8 pm .	friday	ouija	3	shoreline theater	8 pm
+movies_00000504	6	cya	confirmed . 3 tickets at the shoreline theater for friday at 8 pm for the movie ouija .	friday	ouija	3	shoreline theater	8 pm
+movies_00000508	0	buy movie tickets for ouija from shoreline theater		none	ouija	none	shoreline theater	none
+movies_00000508	1	saturday , 1 ticket	how many tickets ?	saturday	ouija	1	shoreline theater	none
+movies_00000508	2	2 pm	what time ?	saturday	ouija	1	shoreline theater	2 pm
+movies_00000508	3	no thank , bye	available times are 8 pm or 8.30 pm	saturday	ouija	1	shoreline theater	2 pm
+movies_00000510	0	purchase movie tickets		none	none	none	none	none
+movies_00000510	1	tickets for ouija movie for 3 people at amc mercado	what is the theater name , time , and number of tickets	none	ouija	3	amc mercado	dontcare
+movies_00000510	2	tickets are for wednesday	what date	wednesday	ouija	3	amc mercado	dontcare
+movies_00000510	3	please repeat	which time would you prefer 5 pm , 6.30 pm , or 7.30 pm	wednesday	ouija	3	amc mercado	dontcare
+movies_00000510	4	no thank you	there are tickets available for 5 pm , 6.30 pm or 7.30 pm . what do you prefer ?	wednesday	ouija	3	amc mercado	dontcare
+movies_00000512	0	let me buy movie tickets .		none	none	none	none	none
+movies_00000512	1	what ?	what day and time , and how many tickets ?	none	none	none	none	none
+movies_00000512	2	today at 2 pm , and only 1 ticket .	how many tickets do you need and for what date and time ?	today	none	1	none	2 pm
+movies_00000512	3	yes	2 pm today , and 1 ticket ?	today	none	1	none	2 pm
+movies_00000512	4	i want to see ouija at lincoln square cinemas .	which movie , and which theater ?	today	ouija	1	lincoln square cinemas	2 pm
+movies_00000512	5	yep	at lincoln square cinemas ?	today	ouija	1	lincoln square cinemas	2 pm
+movies_00000512	6	sounds good .	there are no shows at 2 pm . how about 7.15 pm ?	today	ouija	1	lincoln square cinemas	7.15 pm
+movies_00000512	7	thanks , see you later .	alright , your tickets have been purchased .	today	ouija	1	lincoln square cinemas	7.15 pm
+movies_00000530	0	i need to buy movie tickets		none	none	none	none	none
+movies_00000530	1	i need 2 tickets	how many tickets are needed	none	none	2	none	none
+movies_00000530	2	would like to see ouija at lincoln square cinemas	what is the movie and theater .	none	ouija	2	lincoln square cinemas	none
+movies_00000530	3	tonight	what day would you like to see the movie	tonight	ouija	2	lincoln square cinemas	none
+movies_00000530	4	6 pm	what time would you like to see movie	tonight	ouija	2	lincoln square cinemas	6 pm
+movies_00000533	0	buy tickets for ouija at 7.15 pm tonight please at the angelika theatre		tonight	ouija	none	angelika	7.15 pm
+movies_00000533	1	3 tickets please	how many tickets do you need ?	tonight	ouija	3	angelika	7.15 pm
+movies_00000541	0	buy ouija tickets		none	ouija	none	none	none
+movies_00000541	1	amc mercado	which theatre ?	none	ouija	none	amc mercado	none
+movies_00000541	2	yes	amc mercado , correct ?	none	ouija	none	amc mercado	none
+movies_00000541	3	i want 3 tickets for the 2 pm showing	how many tickets do you want , and which showing would you like the tickets for ?	none	ouija	3	amc mercado	2 pm
+movies_00000541	4	tomorrow	what day do you want the tickets for ?	tomorrow	ouija	3	amc mercado	2 pm
+movies_00000541	5	ok , that ' s fine	there is no 2 pm showing tomorrow , but there is one at 8.30 pm	tomorrow	ouija	3	amc mercado	8.30 pm
+movies_00000541	6	thanks	ok , purchased 3 tickets for ouija tomorrow at 8.30 pm at amc mercado	tomorrow	ouija	3	amc mercado	8.30 pm
+movies_00000548	0	i would like to get some movie tickets		none	none	none	none	none
+movies_00000548	1	ouija	what movie do you want to go see ?	none	ouija	none	none	none
+movies_00000548	2	1 please .	how many tickets would you like ?	none	ouija	1	none	none
+movies_00000548	3	the stanford theater .	what theater would you like to see ouija at ?	none	ouija	1	the stanford theater	none
+movies_00000548	4	friday and 1 pm please .	what day and time do you want to watch it ?	friday	ouija	1	the stanford theater	1 pm
+movies_00000548	5	yes , that is correct .	okay , to confirm , you want to go on friday at 1 pm ?	friday	ouija	1	the stanford theater	1 pm
+movies_00000548	6	no , neither of those work . what are the showtimes on next monday ?	that time isn ' t available unfortunately . 5 pm or 7 pm showtimes are available though if you are interested .	next monday	ouija	1	the stanford theater	1 pm
+movies_00000549	0	buy movie tickets .		none	none	none	none	none
+movies_00000549	1	ouija , at shoreline theater .	which theater and movie do you want to see ?	none	ouija	none	shoreline theater	none
+movies_00000549	2	next monday , 1 ticket for the 1 pm showtime .	what date , time , and how many tickets ?	next monday	ouija	1	shoreline theater	1 pm
+movies_00000549	3	yes .	that is next monday , 1 ticket at 1 pm is this correct ?	next monday	ouija	1	shoreline theater	1 pm
+movies_00000549	4	thank you . goodbye .	i am unable to complete the purchase for 1 ticket for the 1 pm show of movie ouija at shoreline theater for next monday	next monday	ouija	1	shoreline theater	1 pm
+movies_00000551	0	i would like to buy movie tickets for ouija .		none	ouija	none	none	none
+movies_00000551	1	angelika and tomorrow at 12 pm	which theater and at what time would you like to see this movie .	tomorrow	ouija	none	angelika	12 pm
+movies_00000551	2	2	how many tickets do you need ?	tomorrow	ouija	2	angelika	12 pm
+movies_00000551	3	8.30 pm is ok .	the only available showtimes are 5 pm , 6.15 pm , and 8.30 pm .	tomorrow	ouija	2	angelika	8.30 pm
+movies_00000551	4	cool , thanks . bye	your purchase is complete for 2 tickets to see ouija tomorrow at 8.30 pm at the angelika theater .	tomorrow	ouija	2	angelika	8.30 pm
+movies_00000560	0	buy movie tickets		none	none	none	none	none
+movies_00000560	1	ouija at 8 pm	which movie and what time	none	ouija	none	none	8 pm
+movies_00000560	2	3 tickets at aquarius	how many tickets do you need and which theater would you like to see it at	none	ouija	3	aquarius	8 pm
+movies_00000560	3	sorry i don ' t understand	when do you want to go ?	none	ouija	3	aquarius	8 pm
+movies_00000560	4	tonight	when did you want to go ?	tonight	ouija	3	aquarius	8 pm
+movies_00000560	5	no thank you .	that movie isn ' t showing tonight at 8 pm . it is showing at 6.30 pm or 7.15 pm .	tonight	ouija	3	aquarius	8 pm
+movies_00000561	0	can you buy movie tickets for ouija please ?		none	ouija	none	none	none
+movies_00000561	1	the stanford theater , wednesday night at 7.15 pm . just 1 ticket please .	what showing and how many tickets would you like ?	wednesday	ouija	1	the stanford theater	7.15 pm
+movies_00000561	2	yes .	to confirm , wednesday night at 7.15 pm , 1 ticket ?	wednesday	ouija	1	the stanford theater	7.15 pm
+movies_00000561	3	no , thanks . goodbye !	7.15 pm isn ' t available . would 6.15 pm , 7 pm , or 7.30 pm work ?	wednesday	ouija	1	the stanford theater	7.15 pm
+movies_00000562	0	please buy movie tickets for movie ouija		none	ouija	none	none	none
+movies_00000562	1	lincoln square cinemas	provide theater preference	none	ouija	none	lincoln square cinemas	none
+movies_00000562	2	2 tickets for friday at 7.15 pm	how many tickets and what time ?	friday	ouija	2	lincoln square cinemas	7.15 pm
+movies_00000570	0	i ' d like to buy movie tickets		none	none	none	none	none
+movies_00000570	1	8 pm	for what time ?	none	none	none	none	8 pm
+movies_00000570	2	3 tickets for ouija at lincoln square cinemas .	how many tickets do you want ?	none	ouija	3	lincoln square cinemas	8 pm
+movies_00000570	3	friday	what date is this for ?	friday	ouija	3	lincoln square cinemas	8 pm
+movies_00000570	4	yes that ' s right .	ok so you want 3 tickets for ouija at lincoln square cinemas on friday at 8 pm ?	friday	ouija	3	lincoln square cinemas	8 pm
+movies_00000570	5	thanks	ok your purchase has been made for 3 tickets to see ouija at lincoln square cinemas on friday at 8 pm .	friday	ouija	3	lincoln square cinemas	8 pm
+movies_00000573	0	i want to buy tickets for ouija		none	ouija	none	none	none
+movies_00000573	1	i need 3 tickets	how many tickets do you need ?	none	ouija	3	none	none
+movies_00000573	2	i need tickets for tonight at 7.15 pm at te aquarius .	which theater are you going to ? what date and time do you need a ticket for ?	tonight	ouija	3	aquarius	7.15 pm
+movies_00000593	0	i want to buy movie tickets		none	none	none	none	none
+movies_00000593	1	i ' m going to the angelika theater , and i need 3 tickets	okay ! what theater are you going to and how many tickets do you need ?	none	none	3	angelika	none
+movies_00000593	2	we want to see ouija tonight , and have no preference for the time	ok , what movie do you want to see , and what date and time are you going ?	tonight	ouija	3	angelika	dontcare
+movies_00000593	3	6.30 pm please .	ok ! would you like 6 pm or 6.30 pm ?	tonight	ouija	3	angelika	6.30 pm
+movies_00000593	4	thanks ! bye !	got it ! you have purchased 3 tickets for the 6.30 pm showing of ouija at angelika	tonight	ouija	3	angelika	6.30 pm
+movies_00000608	0	get tickets to ouija		none	ouija	none	none	none
+movies_00000608	1	tonight at 8 pm for 1	what date and time and how many people	tonight	ouija	1	none	8 pm
+movies_00000608	2	yes	1 ticket for tonight at 8 pm - is that correct ?	tonight	ouija	1	none	8 pm
+movies_00000608	3	angelika	what theatre ?	tonight	ouija	1	angelika	8 pm
+movies_00000608	4	no . bye !	there are no tickets available at 8 pm . would you like 6.30 pm , 7.30 pm , or 8.30 pm ?	tonight	ouija	1	angelika	8 pm
+movies_00000610	0	" i need to buy movie tickets "		none	none	none	none	none
+movies_00000610	1	" i need 2 tickets to see ouija "	" ok , what movie and how many ? "	none	ouija	2	none	none
+movies_00000610	2	" 7.15 pm "	" do you have a time in mind ? "	none	ouija	2	none	7.15 pm
+movies_00000610	3	" the shoreline theater on wednesday "	" what day and what theatre ? "	wednesday	ouija	2	shoreline theater	7.15 pm
+movies_00000610	4	" i did not understand "	" 7.15 pm was rejected , what about 6 pm , 6.30 pm or 7 pm ? "	wednesday	ouija	2	shoreline theater	7.15 pm
+movies_00000610	5	" no , but thanks "	" declined for the 7.15 pm time , would you like 6 pm , 6.30 pm or 7 pm instead ? "	wednesday	ouija	2	shoreline theater	7.15 pm
+movies_00000611	0	purchase movie tickets		none	none	none	none	none
+movies_00000611	1	you chose ouija for 1 at the angelika theater	what movie do you want to see , and how many tickets would you like ?	none	ouija	1	angelika	none
+movies_00000611	2	you chose saturday at 8 pm .	what day and time will you see the movie ?	saturday	ouija	1	angelika	8 pm
+movies_00000611	3	i choose none . change date to sunday	8 pm is not available . the closest showtimes are 7.15 pm , 7.30 pm , or 8.30 pm .	sunday	ouija	1	angelika	8 pm
+movies_00000611	4	no that doesn ' t work for me	8 pm is unavaiable . however , 8.30 pm is available .	sunday	ouija	1	angelika	8 pm
+movies_00000611	5	have a good day	i wasn ' t able to process your purchase . the given details were to see ouija on sunday for 1 at the angelika theater .	sunday	ouija	1	angelika	8 pm
+movies_00000612	0	i want to buy a ticket to see ouija at amc mercado		none	ouija	none	amc mercado	none
+movies_00000612	1	just 1 please for tonight ' s 7.15 pm show	how many tickets do you want to buy ?	tonight	ouija	1	amc mercado	7.15 pm
+movies_00000612	2	no , neither one works for tonight . thanks for the suggestion though .	the 7.15 pm show is sold out . would you like a ticket for the 6.30 pm or 7.30 pm show ?	tonight	ouija	1	amc mercado	7.15 pm
+movies_00000620	0	can you buy movie ticket for ouija at the amc mercado theater ?		none	ouija	none	amc mercado	none
+movies_00000620	1	i would like 3 tickets for today at 2 pm .	how many tickets would you like ?	today	ouija	3	amc mercado	2 pm
+movies_00000620	2	6.15 pm	there is no showing at 2 pm but there is a showing 6 pm or 6.15 pm . which would you prefer ?	today	ouija	3	amc mercado	6.15 pm
+movies_00000620	3	bye !	your tickets are purchased for today at 6.15 pm at amc mercado theater for the movie ouija .	today	ouija	3	amc mercado	6.15 pm
+movies_00000646	0	can you please get me tickets for ouija at lincoln square cinemas .		none	ouija	none	lincoln square cinemas	none
+movies_00000646	1	i need 1 ticket for the show on next monday at 2 pm .	how many tickets do you need , and for what time ?	next monday	ouija	1	lincoln square cinemas	2 pm
+movies_00000646	2	no worries . bye !	sorry , but i was not able to find any tickets for that time .	next monday	ouija	1	lincoln square cinemas	2 pm
+movies_00000647	0	i ' d like to buy movie tickets for ouija		none	ouija	none	none	none
+movies_00000647	1	1 please	how many tickets ?	none	ouija	1	none	none
+movies_00000647	2	the stanford theater	which theatre would you like to go to ?	none	ouija	1	the stanford theater	none
+movies_00000647	3	tomorrow at 7.15 pm	what day would you like the tickets for ?	tomorrow	ouija	1	the stanford theater	7.15 pm
+movies_00000647	4	sorry that doesn ' t work . how about next monday ?	7.15 pm is not available . how about 6.30 pm or 7.30 pm ?	next monday	ouija	1	the stanford theater	7.15 pm
+movies_00000647	5	yes that information is correct .	sure ! 1 ticket for next monday to see ouija at 7.15 pm at the stanford theater .	next monday	ouija	1	the stanford theater	7.15 pm
+movies_00000647	6	goodbye .	your order is confirmed	next monday	ouija	1	the stanford theater	7.15 pm
+movies_00000655	0	purchase ouija movie tickets		none	ouija	none	none	none
+movies_00000655	1	2 tickets please .	please give me a preference for the number of tickets .	none	ouija	2	none	none
+movies_00000655	2	the theater is called the stanford theater .	please give me a preference for theater name .	none	ouija	2	the stanford theater	none
+movies_00000655	3	friday at 6 pm	please give me a preference for the date and time .	friday	ouija	2	the stanford theater	6 pm
+movies_00000655	4	that is right .	confirm that the time is 6 pm please .	friday	ouija	2	the stanford theater	6 pm
+movies_00000655	5	8.30 pm is fine .	6 pm is unavailable ; how about 6.30 pm , 7.30 pm or 8.30 pm ?	friday	ouija	2	the stanford theater	8.30 pm
+movies_00000655	6	see ya !	purchase confirmed for 2 tickets for ouija on friday at 8.30 pm at the stanford theater .	friday	ouija	2	the stanford theater	8.30 pm
+movies_00000663	0	i ' d like to buy tickets for ouija for today at the amc mercado		today	ouija	none	amc mercado	none
+movies_00000663	1	just 1 ticket , for the 2 pm showing	how many tickets would you like , and for what time ?	today	ouija	1	amc mercado	2 pm
+movies_00000663	2	8 pm works ,	there ' s no 2 pm showing , but there are showing available for 5 pm , 6.30 pm , or 8 pm ; would you consider any of those ?	today	ouija	1	amc mercado	8 pm
+movies_00000663	3	thanks so much ! see you	great , the purchase is complete . you have a 1 ticket for ouija for 8 pm at the amc mercado theater	today	ouija	1	amc mercado	8 pm
+movies_00000674	0	buy tickets for ouija at 7.15 pm tonight please at the angelika theatre		tonight	ouija	none	angelika	7.15 pm
+movies_00000674	1	3 tickets please	how many tickets do you want ?	tonight	ouija	3	angelika	7.15 pm
+movies_00000675	0	buy movie tickets for 8:00 pm		none	none	none	none	8:00 pm
+movies_00000675	1	5 tickets at the century at pacific commons	how many tickets do you want me to buy and what theatre ?	none	none	5	century at pacific commons	8:00 pm
+movies_00000675	2	i want to go to see ouija on tuesday	what movie do you want to see and what date ?	tuesday	ouija	5	century at pacific commons	8:00 pm
+movies_00000675	3	yes	at 8:00 pm , right ?	tuesday	ouija	5	century at pacific commons	8:00 pm
+movies_00000675	4	bye	i have bought 5 tickets for march 07 at 8:00 pm for ouija at century at pacific commons	tuesday	ouija	5	century at pacific commons	8:00 pm
+movies_00000676	0	i need to buy movie tickets		none	none	none	none	none
+movies_00000676	1	i need 2 tickets	how many tickets are needed	none	none	2	none	none
+movies_00000676	2	would like to see ouija at lincoln square cinemas	what movie and theatre ?	none	ouija	2	lincoln square cinemas	none
+movies_00000676	3	tonight	what day would you like to see the movie ?	tonight	ouija	2	lincoln square cinemas	none
+movies_00000676	4	6 pm	what time would you like to see movie	tonight	ouija	2	lincoln square cinemas	6 pm
+movies_00000682	0	i want to get tickets to watch ouija at the amc mercado .		none	ouija	none	amc mercado	none
+movies_00000682	1	yes .	you want to see ouija at the amc mercado , right ?	none	ouija	none	amc mercado	none
+movies_00000682	2	3 tickets for the 7.15 pm show on wednesday night .	what time ?	wednesday	ouija	3	amc mercado	7.15 pm
+movies_00000682	3	yes .	i want to make sure you want 3 tickets to see the wednesday night showing of ouija at the amc mercado at 7.15 pm .	wednesday	ouija	3	amc mercado	7.15 pm
+movies_00000682	4	later . bye !	tickets have been purchased for the wednesday night showing of ouija at the amc mercado at 7.15 pm .	wednesday	ouija	3	amc mercado	7.15 pm
+movies_00000698	0	i need to buy tickets for the movie ouija		none	ouija	none	none	none
+movies_00000698	1	i want to go to angelika theater tomorrow and need tickets for 2 people	what theater do you want to see movie at ?	tomorrow	ouija	2	angelika	none
+movies_00000698	2	anytime is ok	what time is the movie you want to see ?	tomorrow	ouija	2	angelika	dontcare
+movies_00000698	3	can you repeat that i didn ' t understand	just to confirm anytime the movie is playing is ok ?	tomorrow	ouija	2	angelika	dontcare
+movies_00000698	4	yes anytime is ok	i ' m trying to confirm anytime the movie is playing is ok for you	tomorrow	ouija	2	angelika	dontcare
+movies_00000698	5	none of them . goodbye .	there are movie times at 7 pm and 7.15 pm and 8.30 pm , which one do you want ?	tomorrow	ouija	2	angelika	dontcare
+movies_00000700	0	buy movie tickets to the movie ouija .		none	ouija	none	none	none
+movies_00000700	1	yes , that is correct .	please confirm that you are looking for the movie ouija .	none	ouija	none	none	none
+movies_00000700	2	i would like 2 tickets at the aquarius theater for 12 pm .	what theater , number of tickets , and time would you prefer .	none	ouija	2	aquarius	12 pm
+movies_00000700	3	today .	what date would you like ?	today	ouija	2	aquarius	12 pm
+movies_00000700	4	7.15 pm , please .	12 pm is not available . would you prefer 6 pm , 6.15 pm , or 7.15 pm ?	today	ouija	2	aquarius	7.15 pm
+movies_00000700	5	goodbye .	a purchase for 2 tickets to the movie ouija at 7.15 pm at the aquarius theater for today has been confirmed .	today	ouija	2	aquarius	7.15 pm
+movies_00000702	0	can you buy me tickets to see ouija at lincoln square cinemas ?		none	ouija	none	lincoln square cinemas	none
+movies_00000702	1	3	how many ?	none	ouija	3	lincoln square cinemas	none
+movies_00000702	2	yup , 3 tickets	you want me to purchase 3 tickets ?	none	ouija	3	lincoln square cinemas	none
+movies_00000702	3	huh ?	what time ?	none	ouija	3	lincoln square cinemas	none
+movies_00000702	4	6 pm on saturday night	what time should the tickets be for ?	saturday	ouija	3	lincoln square cinemas	6 pm
+movies_00000702	5	yes	so you want tickets for saturday at 6 pm ?	saturday	ouija	3	lincoln square cinemas	6 pm
+movies_00000702	6	yep	alright , so you want me to purchase 3 tickets for ouija at lincoln square cinemas at 6 pm on saturday night ?	saturday	ouija	3	lincoln square cinemas	6 pm
+movies_00000702	7	bye	okay , i purchased 3 tickets for ouija at lincoln square cinemas at 6 pm on saturday night	saturday	ouija	3	lincoln square cinemas	6 pm
+movies_00000717	0	please buy me 6:00 pm movie tickets .		none	none	none	none	6:00 pm
+movies_00000720	0	get me 4 movie tickets for wednesday		wednesday	none	4	none	none
+movies_00000723	0	hello , please buy movie tickets for wednesday		wednesday	none	none	none	none
+movies_00000763	0	i need to buy 6 movie tickets		none	none	6	none	none
