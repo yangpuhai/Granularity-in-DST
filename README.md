@@ -8,3 +8,46 @@ Dialogue state tracking (DST) plays a key role in task-oriented dialogue systems
 ## Requirements
 * python 3.6
 * pytorch >= 1.0
+
+## Baselines
+
+MGL_SpanPtr, MGL_TRADE, MGL_BERTDST, MGL_SOMDST: baselines with granularity, which are reproduced based on the original papers [[SpanPtr](https://www.aclweb.org/anthology/P18-1134.pdf), [TRADE](https://www.aclweb.org/anthology/P19-1078.pdf), [BERTDST](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1355.pdf), [SOMDST](https://www.aclweb.org/anthology/2020.acl-main.53.pdf)] and the [official pytorch implementation of SOMDST](https://github.com/clovaai/som-dst).
+
+MGL_SUMBT: baseline with granularity, which is reproduced based on the original paper [[SUMBT](https://www.aclweb.org/anthology/P19-1546.pdf)] and the [official pytorch implementation of SUMBT](https://github.com/yangpuhai/SUMBT).
+
+## Datasets
+
+1. Corpus download
+
+    Sim-M and Sim-R: [download](https://github.com/google-research-datasets/simulated-dialogue), 
+
+    WOZ2.0: [download](https://github.com/nmrksic/neural-belief-tracker/tree/master/data/woz)
+
+    DSTC2: [download](https://camdial.org/~mh521/dstc/)
+
+    MultiWOZ2.1: [download](https://github.com/budzianowski/multiwoz/tree/master/data)
+
+2. Data preprocessing
+
+    ```
+    python create_data_DSTC2.py
+    python create_data_MultiWOZ.py
+    ```
+    MGL_SpanPtr, MGL_TRADE, MGL_BERTDST, MGL_SOMDST: unzip the dataset.zip file and replace the empty *data* folder.
+
+    MGL_SUMBT: The processed data has been included in its *data* folder, and you can reprocess the data by yourself according to the instructions.
+
+## Train
+MGL_SpanPtr, MGL_TRADE, MGL_BERTDST, MGL_SOMDST: 
+
+    # For example: 
+    bash SOMDST_train_SG.sh  # train SOMDST with single granularity
+    bash SOMDST_train.sh  # train SOMDST with Multiple granularities
+    
+MGL_SUMBT:
+
+    # For example: 
+    bash run-multiwoz.sh  # train SUMBT with Multiple granularities on MultiWOZ2.1
+
+## Contact Information
+Contact: Puhai Yang (`phyang@bit.edu.cn`), Heyan Huang (`hhy63@bit.edu.cn`), Xian-Ling Mao (`maoxl@bit.edu.cn`)
