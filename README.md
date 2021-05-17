@@ -13,7 +13,7 @@ Dialogue state tracking (DST) plays a key role in task-oriented dialogue systems
 
 MGL_SpanPtr, MGL_TRADE, MGL_BERTDST, MGL_SOMDST: baselines with granularity, which are reproduced based on the original papers [[SpanPtr](https://www.aclweb.org/anthology/P18-1134.pdf), [TRADE](https://www.aclweb.org/anthology/P19-1078.pdf), [BERTDST](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1355.pdf), [SOMDST](https://www.aclweb.org/anthology/2020.acl-main.53.pdf)] and the [official pytorch implementation of SOMDST](https://github.com/clovaai/som-dst).
 
-MGL_SUMBT: baseline with granularity, which is reproduced based on the original paper [[SUMBT](https://www.aclweb.org/anthology/P19-1546.pdf)] and the [official pytorch implementation of SUMBT](https://github.com/yangpuhai/SUMBT).
+MGL_SUMBT: baseline with granularity, which is reproduced based on the original paper [[SUMBT](https://www.aclweb.org/anthology/P19-1546.pdf)] and the [official pytorch implementation of SUMBT](https://github.com/SKTBrain/SUMBT).
 
 ## Datasets
 
