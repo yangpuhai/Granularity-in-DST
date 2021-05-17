@@ -33,7 +33,7 @@ MGL_SUMBT: baseline with granularity, which is reproduced based on the original 
     python create_data_DSTC2.py
     python create_data_MultiWOZ.py
     ```
-    MGL_SpanPtr, MGL_TRADE, MGL_BERTDST, MGL_SOMDST: unzip the dataset.zip file and replace the empty *data* folder.
+    MGL_SpanPtr, MGL_TRADE, MGL_BERTDST, MGL_SOMDST: unzip the dataset.zip file and copy it to the corresponding *MGL_\** folder.
 
     MGL_SUMBT: The processed data has been included in its *data* folder, and you can reprocess the data by yourself according to the instructions.
 
